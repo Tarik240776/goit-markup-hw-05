@@ -530,5 +530,21 @@ position: absolute;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.mobal-imput {
+  width: 100%;
+  border: 1px solid rgba(46, 47, 66, 0.4);
+    border-radius: 4px;
+    height: 40px;
+    margin-bottom: 8px;
+    background-color: transparent;
+}
+.mobal-form-label {
+  
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+}
 
 
