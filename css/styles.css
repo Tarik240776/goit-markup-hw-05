@@ -625,7 +625,14 @@ body {
 .modal-feild-texarea {
   margin-bottom: 16px;
 }
-.chek-field {}
+.chek-field {
+    font-weight: 400;
+    font-size: 12px; 
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+    margin-bottom: 24px;
+}
 
 .chek-input:checked + .chek-label > .chekbox {
 
@@ -651,4 +658,9 @@ body {
 .chek-icon {
  
 }
-.chek-link {}
+.chek-link {
+    line-height: 1.33;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #4d5ae5;
+}
