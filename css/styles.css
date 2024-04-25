@@ -445,6 +445,9 @@ body {
 .logo-wrap {
   margin-right: 120px;
 }
+.footer-main-social {
+  margin-right: 80px;
+}
 .footer-main-text {
   font-size: 16px;
   line-height: 1.5;
@@ -500,6 +503,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
+  
 }
 
 .footer-form {}
