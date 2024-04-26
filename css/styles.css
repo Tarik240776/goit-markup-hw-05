@@ -508,6 +508,14 @@ body {
 
 .footer-form {}
 
+.foter-lable {
+  border: 1px solid #fff;
+    border-radius: 4px;
+    width: 264px;
+    height: 40px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
 .footer-input {}
 
 .footer-send-btn {
