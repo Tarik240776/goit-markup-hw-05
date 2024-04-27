@@ -560,13 +560,13 @@ justify-content: center;
     padding: 8px 24px;
     border-radius: 4px;
     background-color: #4d5ae5;
-    border-color:none;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     min-width: 165px;
     height: 40px;
+    border: none;
   
     
     
